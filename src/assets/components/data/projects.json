@@ -1,0 +1,23 @@
+[
+    {
+        "title": "E-commerce",
+        "subtitle": "(Full website)",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim veritatis libero dolore cupiditate explicabo, autem nam eaque quas vel, officia dolorum laborum iste eveniet quia!",
+        "imgSrc": "/mockups/macbook 8.png",
+        "direction": "left"
+    },
+    {
+        "title": "E-commerce",
+        "subtitle": "(Full website)",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim veritatis libero dolore cupiditate explicabo, autem nam eaque quas vel, officia dolorum laborum iste eveniet quia!",
+        "imgSrc": "/mockups/macbook 8.png",
+        "direction": "right"
+    },
+    {
+        "title": "E-commerce",
+        "subtitle": "(Full website)",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim veritatis libero dolore cupiditate explicabo, autem nam eaque quas vel, officia dolorum laborum iste eveniet quia!",
+        "imgSrc": "/mockups/macbook 8.png",
+        "direction": "left"
+    }
+]
